@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1691243533 source:d:\submission\src\movie.cpp
+	"Movie.h"
+	<iostream>
+
+1691238891 d:\submission\include\movie.h
+	<iostream>
+
+1691241452 source:d:\submission\src\movies.cpp
+	"Movies.h"
+	<iostream>
+
+1691241447 d:\submission\include\movies.h
+	<vector>
+	<string>
+	"Movie.h"
+
+1691242289 source:d:\submission\main.cpp
+	<iostream>
+	"Movies.h"
+	"MovieSearch.h"
+	"MovieReview.h"
+
+1691241537 d:\submission\include\moviesearch.h
+	<string>
+	"Movies.h"
+
+1691240352 d:\submission\include\moviereview.h
+	<string>
+
+1691242305 source:d:\submission\src\moviereview.cpp
+	"MovieReview.h"
+	<iostream>
+	<map>
+
+1691241583 source:d:\submission\src\moviesearch.cpp
+	"MovieSearch.h"
+	"Movies.h"
+
